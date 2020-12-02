@@ -7,6 +7,7 @@ public class Main {
 
     long bonus = service.calculate(amount, registered);
     System.out.println(bonus);
+
   }
 }
 
